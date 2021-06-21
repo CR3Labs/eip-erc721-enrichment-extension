@@ -11,7 +11,7 @@ requires: 721
 ---
 
 ## Simple Summary
-This standard defines a derivative of an ERC-721 token called an enrichment token which adds additional functionality to an existing NFT.
+This standard defines a derivative of an ERC-721 token called a non-fungible enrichment which adds additional functionality to an existing NFT.
 
 ## Abstract
 The ERC-721 token contract defines a way to create a non-fungible token but as a non-fungible token is generally designed to be immutable it does not provide for a method of managing external or mutable data which relates to the original NFT. This new token standard would enable a token which is "owned" by an existing NFT and may be purchased only by the owner of the underlying NFT to enrich the underlying NFT.
